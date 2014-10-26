@@ -28,7 +28,8 @@ Need to write R code (run_analysis.R) to perform following operation over the ab
 
 About Code
 -----------
-run_analysis.R script consists of code that perform all the operation required in this project. But before running these operation it itself get data from link if not exists.
+run_analysis.R script consists of code that perform all the operation required in this project. But before running these operation it itself get data from link if not exists. 
+
 
 Steps to run this script:
 - Clone this project to your computer.
@@ -36,4 +37,7 @@ Steps to run this script:
 - Create "data" and "output" folder in main repository path.
 - Then run the code by "source(run_analysis.R)".
 
+About Code Book
+---------------
+Please refer to CodeBook.md for description of variables, data, and tranformation performed to clean the data.
 
