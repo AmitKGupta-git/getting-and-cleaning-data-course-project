@@ -30,6 +30,11 @@ About Code
 -----------
 run_analysis.R script consists of code that perform all the operation required in this project. But before running these operation it itself get data from link if not exists.
 
-Prerequisite:
+Steps to run this script:
 
-"data" and "output" should be present before running this script.
+- Clone this project to your computer.
+- Set working directory to the "code" folder in this repository.
+- Create "data" and "output" folder in main repository path.
+- Then run the code by "source(run_analysis.R)".
+
+
